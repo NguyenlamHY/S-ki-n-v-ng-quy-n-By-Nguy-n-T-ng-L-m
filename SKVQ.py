@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = 'MTI2NTc1MTcyMTIwMDU4MjczNg.GVgrjG.-zLthwix3AImBxMsAjxOsqIkcaDbD1hm6ksR8k'
+TOKEN = ''
 CHANNEL_ID = 1240697291321380987
 
 intents = discord.Intents.default()
