@@ -9,4 +9,6 @@ cài đặt Python từ trang chủ Python.org
 
 sau khi cài xong cài đặt thư viện discord.py bằng pip install discord.py
 
+thêm token trong discord vào trong dòng token
+
 Sau khi xong thì sử dụng lệnh python SKVQ.py
